@@ -4,3 +4,4 @@ Személy?
 Nem!
 Állat?
 Igen!
+Emlős?
