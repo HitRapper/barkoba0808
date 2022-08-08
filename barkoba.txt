@@ -3,3 +3,4 @@ Igen!
 Személy?
 Nem!
 Állat?
+Igen!
